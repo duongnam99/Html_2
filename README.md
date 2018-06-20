@@ -6,7 +6,7 @@
 - Thực hiện bởi: __Dương Minh Nam__
 
 ## Liên kết
-- [Giao diện html]()
+- [Giao diện html](https://duongnam99.github.io/Html_2/)
 
 ## Kiến thức nắm được
 - Sử dụng position, display, float để căn chỉnh vị trí các phần tử
