@@ -1,0 +1,118 @@
+/*font-family: 'Open Sans', sans-serif;*/
+.wrap {
+    position:  relative;
+    width:  1024px;
+    height:  1024px;
+    margin:  auto;
+    background-image:  url(../images/background.jpg);
+    /* display:  block; */
+}
+
+.wrap .main {
+    display:  block;
+    position:  absolute;
+    top: 95px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 535px;
+    height: 820px;
+    margin-bottom: 95px;
+    background: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*CUBE 1*/
+.cube1 {
+    height:  95px;
+    position:  relative;
+}
+
+.cube1 .avatar {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background:  rebeccapurple;
+    border-radius:  50%;
+    position:  absolute;
+    top: 20px;
+    left: 20px;
+}
+.cube1 .name {
+    position:  absolute;
+    left: 85px;
+    top: 22px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.cube1 .description {
+    position:  absolute;
+    left: 85px;
+    top: 48px;
+    font-size: 13px;
+    color: #a6a6a6;
+}
+.cube1 button.follow {
+    border:  0;
+    padding: 8px 30px;
+    border: 3px solid #42b2fc;
+    border-radius: 6px;
+    background:  white;
+    color: #42b2fc;
+    position:  absolute;
+    top: 30px;
+    right: 45px;
+}
+
+.cube1 button.follow:hover {
+    cursor:  pointer;
+}
+
+.cube1 .more {
+    position:  absolute;
+    top: 19px;
+    right: -8px;
+    font-size: 42px;
+    transform: rotate(90deg);
+}
+/*CUBE 2*/
+.cube2 {
+    height:  540px;
+    background: linear-gradient(to right, rgb(212, 212, 212), rgb(221, 221, 223));
+    position:  relative;
+}
+
+.cube2 img.camera {
+    position:  absolute;
+    left: 50%;
+    top: 170px;
+    transform: translateX(-50%);
+}
+/*CUBE 3*/
+.cube3 img.behavior {
+    width:  100%;
+}
+
+/*CUBE 4*/
+.cube4 img {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.cube4 .text1 {
+    display:  inline-block;
+    margin-left:  30px;
+    margin-top: 12px;
+    font-weight: 600;
+}
+
+.cube4 .like {
+    font-size: 18px;
+    font-weight:  600;
+}
+
+.cube4 .text2 {
+    display:  inline-block;
+    margin-left: 70px;
+    color: #356bb4;
+}
