@@ -137,11 +137,11 @@
     width: 480px;
     position:  absolute;
     top: 25px;
-    left: 27px;
+    left: 30px;
 }
 
 .behavior .left {
-    width: 110px;
+    width: 160px;
     display:  inline-block;
 }
 
@@ -149,4 +149,8 @@
     width: 40px;
     display:  inline-block;
     float:  right;
+}
+
+.cube3 .left img {
+    margin-right: 15px;
 }
