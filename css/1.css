@@ -1,11 +1,11 @@
-/*font-family: 'Open Sans', sans-serif;*/
+
+/*font-family: 'Varela', sans-serif;*/
 .wrap {
     position:  relative;
     width:  1024px;
     height:  1024px;
     margin:  auto;
     background-image:  url(../images/background.jpg);
-    /* display:  block; */
 }
 
 .wrap .main {
@@ -18,7 +18,7 @@
     height: 820px;
     margin-bottom: 95px;
     background: white;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Varela', sans-serif;
     box-shadow: 10px 15px 18px #00000063;
 }
 
@@ -50,7 +50,7 @@
     position:  absolute;
     left: 85px;
     top: 48px;
-    font-size: 13px;
+    font-size: 15px;
     color: #a6a6a6;
 }
 .cube1 button.follow {
@@ -108,7 +108,7 @@
 }
 
 .cube4 .like {
-    font-size: 18px;
+    font-size: 19px;
     font-weight:  600;
 }
 
@@ -116,4 +116,7 @@
     display:  inline-block;
     margin-left: 70px;
     color: #356bb4;
+}
+.cube4 .text1, .text2 {
+    font-size:  19px;
 }

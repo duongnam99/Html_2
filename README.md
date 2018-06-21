@@ -13,4 +13,4 @@
 - Các thuộc tính background-image, background-color, linear-gradient...
 
 ## Credit
--  Font: [Open-sans](https://fonts.google.com/specimen/Open+Sans) 
+-  Font: [Varela](https://fonts.google.com/specimen/Varela) 
