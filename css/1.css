@@ -61,6 +61,7 @@
     background:  white;
     color: #42b2fc;
     position:  absolute;
+    font-weight:  bold;
     top: 30px;
     right: 45px;
 }
