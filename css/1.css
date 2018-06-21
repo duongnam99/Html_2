@@ -19,6 +19,7 @@
     margin-bottom: 95px;
     background: white;
     font-family: 'Open Sans', sans-serif;
+    box-shadow: 10px 15px 18px #00000063;
 }
 
 /*CUBE 1*/
@@ -90,7 +91,7 @@
 }
 /*CUBE 3*/
 .cube3 img.behavior {
-    width:  100%;
+    width:  99%;
 }
 
 /*CUBE 4*/
