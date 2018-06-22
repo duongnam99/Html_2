@@ -127,17 +127,18 @@
     margin-left:  30px;
 }
 .cube3 {
-    height:  89px;
-    display:  block;
-    position:  relative;
+    width: 495px;
+    height: 150px;
+    padding-top: 20px;
+    margin-left: 28px;
 }
 
 .cube3 .behavior {
     height: 40px;
     width: 480px;
-    position:  absolute;
-    top: 25px;
-    left: 30px;
+    /* position:  absolute; */
+    /* top: 25px; */
+    /* left: 30px; */
 }
 
 .behavior .left {
@@ -153,4 +154,32 @@
 
 .cube3 .left img {
     margin-right: 15px;
+}
+.bottom {
+    height:  185px;
+    /* display:  block; */
+}
+
+.cube3 .content {
+    margin-top: 20px;
+    font-size:  19px;
+    font-weight:  600;
+}
+
+.cube3 .tag {
+    margin-top: 20px;
+}
+
+.tag .text1 {
+    display:  inline-block;
+}
+
+.tag .text2 {
+    display:  inline-block;
+    margin-left: 70px;
+    font-weight: 400;
+    color: #356bb4;
+}
+.like img {
+    margin-right: 10px;
 }
