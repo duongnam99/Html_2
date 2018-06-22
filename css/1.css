@@ -176,7 +176,8 @@
 
 .tag .text2 {
     display:  inline-block;
-    margin-left: 70px;
+    margin-right: 65px;
+    float:  right;
     font-weight: 400;
     color: #356bb4;
 }
